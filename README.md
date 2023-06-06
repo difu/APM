@@ -6,7 +6,7 @@ Install requirements:
 
 __Note__:Recommended to use a virtual environment
 ```shell
-pip install -r requirenments.txt
+pip install -r requirements.txt
 ```
 
 Set your environment and replace it with your configuration, see also 
